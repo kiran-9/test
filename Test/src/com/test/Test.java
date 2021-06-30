@@ -8,8 +8,12 @@ public class Test {
 		System.out.println("testing first");
 		System.out.println("testing first");
 		System.out.println("testing first");
-		System.out.println("testing first");
-		System.out.println("testing first");
 		System.out.println("testing with git example");
+		
+		int a = 5;
+		int b = 6;
+		
+		int result = a*b;
+		System.out.println(result);
 	}
 }
